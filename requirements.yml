@@ -1,0 +1,10 @@
+name: dc-blog
+
+dependencies:
+  - python=3.6
+  - cython
+  - matplotlib
+  - pip:
+      - tensorflow==1.13.1
+      - toolz==0.9.0
+      - cytoolz==0.9.0.1
